@@ -1,0 +1,7 @@
+.row>div{
+    background-color: aquamarine;
+    border:1px solid rebeccapurple;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}
